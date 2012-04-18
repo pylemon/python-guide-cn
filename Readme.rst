@@ -22,43 +22,54 @@ Python 漫游指南!
 - How to interface w/ hg from git easily
 - 什么库用来干什么
 
-**本书fork自 https://github.com/kennethreitz/python-guide**
-如果有兴趣参与本书的翻译. 请联系.
+
+**本项目fork自 https://github.com/kennethreitz/python-guide 与该项目同步更新**
+
+**如果有兴趣参与本书的翻译. 请联系 leeway1985@gmail.com**
 
 
 翻译进度
 --------
 
-├── docs
-│   ├── index.rst                          100%
-│   ├── intro                                0%
-│   │   ├── community.rst                    0%
-│   │   ├── documentation.rst                0%
-│   │   ├── duction.rst                      0%
-│   │   ├── learning.rst                     0%
-│   │   └── news.rst                         0%
-│   ├── notes                                0%
-│   │   ├── contribute.rst                   0%
-│   │   ├── license.rst                      0%
-│   │   └── styleguide.rst                   0%
-│   ├── scenarios                            0%
-│   │   ├── admin.rst                        0%
-│   │   ├── ci.rst                           0%
-│   │   ├── client.rst                       0%
-│   │   ├── cli.rst                          0%
-│   │   ├── db.rst                           0%
-│   │   ├── gui.rst                          0%
-│   │   ├── imaging.rst                      0%
-│   │   ├── scientific.rst                   0%
-│   │   ├── speed.rst                        0%
-│   │   └── web.rst                          0%
-│   ├── shipping                             0%
-│   │   ├── freezing.rst                     0%
-│   │   └── packaging.rst                    0%
-│   ├── starting                             0%
-│   │   ├── install                          0%
-│   │   │   ├── linux.rst                    0%
-│   │   │   ├── osx.rst                      0%
-│   │   │   └── win.rst                      0%
-│   │   ├── installation.rst                 0%
-│   │   └── which-python.rst                 0%
+- index.rst                      100%
+
+**starting**
+
+- linux.rst                        0%
+- osx.rst                          0%
+- win.rst                          0%
+- installation.rst                 0%
+- which-python.rst                 0%
+
+**intro**
+
+- community.rst                    0%
+- documentation.rst                0%
+- duction.rst                      0%
+- learning.rst                     0%
+- news.rst                         0%
+
+**notes**
+
+- contribute.rst                   0%
+- license.rst                      0%
+- styleguide.rst                   0%
+
+**scenarios**
+
+- admin.rst                        0%
+- ci.rst                           0%
+- client.rst                       0%
+- cli.rst                          0%
+- db.rst                           0%
+- gui.rst                          0%
+- imaging.rst                      0%
+- scientific.rst                   0%
+- speed.rst                        0%
+- web.rst                          0%
+
+**shipping**
+
+- freezing.rst                     0%
+- packaging.rst                    0%
+
