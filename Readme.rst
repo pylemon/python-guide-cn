@@ -35,7 +35,7 @@ Python 漫游指南!
 
 **starting**
 
-- linux.rst                        0%
+- linux.rst                      100%
 - osx.rst                          0%
 - win.rst                          0%
 - installation.rst                 0%
@@ -72,4 +72,3 @@ Python 漫游指南!
 
 - freezing.rst                     0%
 - packaging.rst                    0%
-
