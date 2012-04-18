@@ -1,6 +1,28 @@
 Python 漫游指南!
 ================
 
+**本项目fork自 https://github.com/kennethreitz/python-guide 与该项目同步更新**
+
+**如果有兴趣参与本书的翻译. 请联系 leeway1985@gmail.com**
+
+如何生成本地阅读版本
+~~~~~~~~~~~~~~~~~~~~
+
+安装 sphinx::
+
+    $ sudo apt-get install python-sphinx
+
+clone 项目到本地::
+
+    $ git clone git://github.com/pylemon/python-guide-cn.git
+
+编译html::
+
+    $ cd python-guide-cn && make
+
+执行完后将会在 python-guide-cn/docs/_build/html/ 目录下生成项目的 html 静态文件. 在浏览器中打开既可阅读.
+
+
 **Python最佳实践指南**
 
 -----------
@@ -21,11 +43,6 @@ Python 漫游指南!
 - 测试. Jenkins + tox 使用.
 - How to interface w/ hg from git easily
 - 什么库用来干什么
-
-
-**本项目fork自 https://github.com/kennethreitz/python-guide 与该项目同步更新**
-
-**如果有兴趣参与本书的翻译. 请联系 leeway1985@gmail.com**
 
 
 翻译进度
