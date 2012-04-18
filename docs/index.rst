@@ -3,13 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-The Hitchhiker's Guide to Python!
-=================================
+Python 漫游指南!
+================
 
-Welcome to The Hitchhiker's Guide to Python. **DON'T PANIC!**
+欢迎打开 Python 漫游指南. **DON'T PANIC!**
 
-**This guide is currently under heavy development, and is mostly a skeleton at the moment.**  If you'd like to help, `fork us on GitHub <https://github.com/kennethreitz/python-guide>`_!
+**本指南正在集中创作中, 目前主要还只是一个框架.**  如果你想提供帮助, `请在 GitHub 上 fork 我们 <https://github.com/kennethreitz/python-guide>`_!
 
-This *opinionated* guide exists to provide both novice and expert Python developers a best-practice handbook to the installation, configuration, and usage of Python on a daily basis.
+这个 *自以为是* 的指南的存在, 同时给新手和资深 Python 开发者提供了一本对于安装, 配置和日常使用Python的最佳实践手册。
 
 .. include:: contents.rst.inc
