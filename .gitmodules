@@ -1,0 +1,3 @@
+[submodule "python-guide"]
+	path = python-guide
+	url = git://github.com/kennethreitz/python-guide.git
